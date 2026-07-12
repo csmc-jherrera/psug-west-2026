@@ -93,4 +93,4 @@ Setting up this repo took longer than writing the code did.
 
 ---
 
-Developer: **@jherrera-csmc** · Conductor: **Claude**
+Conductor: **@jherrera-csmc** · Developer: **Claude**
